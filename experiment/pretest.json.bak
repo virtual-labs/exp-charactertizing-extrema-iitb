@@ -1,0 +1,38 @@
+[
+   {
+      "question": "A point (x<sub>0</sub>, y<sub>0</sub>) is a critical point of f(x, y) if",
+      "qid": 1,
+      "option_a": "f(x<sub>0</sub>, y<sub>0</sub>) = 0",
+      "option_b": "&nabla; f(x<sub>0</sub>, y<sub>0</sub>) = 0",
+      "option_c": "f<sub>xx</sub> = 0",
+      "option_d": "Hessian = 0",
+      "correct_option": "b"
+   },
+   {
+      "question": "A critical point occurs where &nabla; f(x, y) = 0. Which of the following represents the condition?",
+      "qid": 2,
+      "option_a": "f<sub>x</sub> = f<sub>y</sub> = 0",
+      "option_b": "f<sub>x</sub> = f<sub>xx</sub> = 0",
+      "option_c": "f<sub>xy</sub> = 0",
+      "option_d": "f = 0",
+      "correct_option": "a"
+   },
+   {
+      "question": "For F(x, y) = [f(x, y), g(x, y)], the Jacobian matrix is",
+      "qid": 3,
+      "option_a": "Matrix of second derivatives",
+      "option_b": "Matrix of first partial derivatives",
+      "option_c": "Determinant of derivatives",
+      "option_d": "Gradient vector",
+      "correct_option": "b"
+   },
+   {
+      "question": "The Hessian matrix of f(x, y) consists of",
+      "qid": 4,
+      "option_a": "First derivatives",
+      "option_b": "Mixed derivatives only",
+      "option_c": "Second-order partial derivatives",
+      "option_d": "Determinants",
+      "correct_option": "c"
+   }
+]
