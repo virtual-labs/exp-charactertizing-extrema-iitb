@@ -27,7 +27,7 @@
     "correct_option": "c"
   },
   {
-    "question": "In a system <br> <span style='display:inline-block;'> $$ \\frac{dx}{dt} = f(x, y), \\frac{dy}{dt} = g(x, y) $$</span> The Jacobian is mainly used to",
+    "question": "In a system, <span style='display:inline-block;'> $$ \\frac{dx}{dt} = f(x, y), \\frac{dy}{dt} = g(x, y) $$</span> The Jacobian is mainly used to",
     "qid": 4,
     "option_a": "Find integration constants",
     "option_b": "Determine stability of equilibrium points",
