@@ -1,0 +1,1 @@
+## Charactertizing extrema

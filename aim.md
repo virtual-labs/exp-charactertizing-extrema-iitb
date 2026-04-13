@@ -1,0 +1,1 @@
+<h3>Aim: To study characterizing schema.</h3>
